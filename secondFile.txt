@@ -7,4 +7,8 @@ second file line 679
 second file line 7
 second file line 8
 second file line 999
+second file line 67
+second file line 7
+second file line 8
+second file line 96
 second file line 10
